@@ -1,4 +1,4 @@
-NOTE: I had an error associated with running flask on my computer, tried for several hours to fix but could not figure it out, so none of my data would load onto my index.html. I believe everything else is set up correctly basing my code off the examples from class, but I was unable to trouble shoot with flask working.
+NOTE: I had an error associated with running flask on my computer, tried for several hours to fix but could not figure it out, so none of my data would load onto my index.html. I believe everything else is set up correctly basing my code off the examples from class, but I was unable to trouble shoot with flask working or take a picture of what my final web page should look like.
 # Unit 12 Homework: Mission to Mars
 
 In this assignment, you will build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. The following information outlines what you need to do.
